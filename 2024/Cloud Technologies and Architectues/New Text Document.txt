@@ -1,0 +1,7 @@
+Review the Amazon S3 Service and EC2. What are the differences, and capabilities. What are the challenges.
+What are the strength and shortcomings
+
+Maximum - 3 pages
+
+
+Submission - Friday Midnight - Muele
